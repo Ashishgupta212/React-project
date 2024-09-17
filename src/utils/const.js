@@ -1,0 +1,1 @@
+export const Menu_api = "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.367089147492962&lng=79.43669938061011&restaurantId="
